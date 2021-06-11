@@ -13,23 +13,23 @@ Completed.
 
 ## Usage
 Go to the appropriate folder in the cmd using : 'cd ...'
-In my case I would type 'cd C:\Users\valen\Desktop\CASEWARE_Premier_projet\GITHUB\main\src'
-(You may consider replacing '\' by '/' if this command doesn't work.)
+In my case I would type 'cd C:\Users\valen\Desktop\CASEWARE_Premier_projet\GITHUB\main\src'.
+(You may consider replacing '\' by '/' if this command doesn't work).
 Then launch the Python interpreter via the command 'Bailleul_Caseware_project.py' for example to run one of the two '.py' files.
 'Bailleul_Caseware_project_unit_testing.py' is the one that will apply the unit tests on a file containing various anomalies.
 
 ***
 ### A simple example:
 
-  fichier_de_base.txt:
-    1.0.1=BP.1.01.01
-    3.2.3.4=TS.3.4.5
+##### fichier_de_base.txt:
+1.0.1=BP.1.01.01
+3.2.3.4=TS.3.4.5
 
-  liste_des_codes_complete.txt: 
-    1.0.1.9
-    1.0.1
-    3.2.3.4.9
-    3.2.3.0
+##### liste_des_codes_complete.txt: 
+1.0.1.9
+1.0.1
+3.2.3.4.9
+3.2.3.0
 
 #### Results:
     Should be added in fichier_de_base.txt:
