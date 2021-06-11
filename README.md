@@ -12,7 +12,7 @@ This file is a project containing a Python code, whose purpose is to copy from o
 Completed.
 
 ## Usage
-Go to the appropriate folder in the cmd using : 'cd ...'
+Go to the appropriate folder in the cmd using : 'cd ...'  
 In my case I would type 'cd C:\Users\valen\Desktop\CASEWARE_Premier_projet\GITHUB\main\src'.
 (You may consider replacing '\' by '/' if this command doesn't work).
 Then launch the Python interpreter via the command 'Bailleul_Caseware_project.py' for example to run one of the two '.py' files.
@@ -21,8 +21,8 @@ Then launch the Python interpreter via the command 'Bailleul_Caseware_project.py
 ***
 ### A simple example:
 
-##### fichier_de_base.txt:
-1.0.1=BP.1.01.01
+##### fichier_de_base.txt:  
+1.0.1=BP.1.01.01  
 3.2.3.4=TS.3.4.5
 
 ##### liste_des_codes_complete.txt: 
