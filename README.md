@@ -1,15 +1,15 @@
-# Caseware_project
+# CASEWARE Project
 ## Author
 Valentin BAILLEUL. Second year of preparatory school at ESIEE PARIS, Gustave Eiffel University, France since Sept. 2019. Apprentice in Computer Science and Applications engineering.
 
 ## Language
-Python 3
+Python3
 
 ## Description
 This file is a project containing a Python code, whose purpose is to copy from one document to another a series of data according to their relationship with each other, while respecting several constraints.
 
 ## Project status
-completed.
+Completed.
 
 ## Usage
 Go to the appropriate folder in the cmd using : 'cd ...'
@@ -31,7 +31,7 @@ Then launch the Python interpreter via the command 'Bailleul_Caseware_project.py
     3.2.3.4.9
     3.2.3.0
 
-  Results:
+#### Results:
     Should be added in fichier_de_base.txt:
       1.0.1.9=BP.1.01.01 since 1.0.1.9 corresponds to 1.0.1 from fichier de base.txt
       3.2.3.4.9=TS.3.4.5 since 3.2.3.4.9 corresponds to 3.2.3.4 from fichier de base.txt
