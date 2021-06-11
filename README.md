@@ -36,8 +36,8 @@ Then launch the Python interpreter via the command 'Bailleul_Caseware_project.py
 
 #### Results:
 ###### Should be added in fichier_de_base.txt
-1.0.1.9=BP.1.01.01 since 1.0.1.9 corresponds to 1.0.1 from fichier de base.txt  
-3.2.3.4.9=TS.3.4.5 since 3.2.3.4.9 corresponds to 3.2.3.4 from fichier de base.txt  
+1.0.1.9=BP.1.01.01  since 1.0.1.9   matches 1.0.1   from fichier de base.txt  
+3.2.3.4.9=TS.3.4.5  since 3.2.3.4.9 matches 3.2.3.4 from fichier de base.txt  
 ###### Should NOT be added in fichier_de_base.txt
-1.0.1 because 1.0.1 already exists  
+1.0.1   because 1.0.1 already exists  
 3.2.3.0 because '3', '3.2' and '3.2.3' don't appear in fichier_de_base.txt  
