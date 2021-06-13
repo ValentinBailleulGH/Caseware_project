@@ -13,8 +13,7 @@ LCC = "liste_des_codes_complete.txt"
 
 class TestProjet(unittest.TestCase):
     def test_no_ID_two_letters(self):
-            
-            self.assertEqual(FB1, "fichier_de_base_unit_testing(1).txt")
+        self.assertEqual(code_extractor(FB1, LCC), "fichier_de_base_unit_testing(1).txt")
     # def test_upper(self):
     #     self.assertEqual('foo'.upper(), 'FOO')
 
