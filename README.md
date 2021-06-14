@@ -24,7 +24,7 @@ An error locator can be added.
 Go to the appropriate folder in the Windows CMD typing :  
 --> 'cd C:\Users\ ...\Downloads\Caseware_project-main\Caseware_project-main\main'  
 
-Then run the .py file :
+Then run the .py file :  
 --> python Bailleul_Caseware_project.py resources\fichier_de_base.txt resources\liste_des_codes_complete.txt  
 
 
