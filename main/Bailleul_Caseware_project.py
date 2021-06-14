@@ -13,7 +13,7 @@ ERROR_DICT = dict([
     ("Empty Space error in fichier_de_base.txt",
         "Beware ! This file contains EMPTY SPACES :\n\n\'1.0.1=\' or \'=BP.1.10.1\' for instance."),
     ("Opening error",
-        "The file is not found.\nMake sure you have written \'cd C:\\Users\\...\\main\\src\'."),
+        "The file is not found.\nMake sure you have written \'cd C:\\Users\\ ... \\Downloads\\Caseware_project-main\\Caseware_project-main\\main."),
     ("Successfully copied",
         " elements have been added to fichier_de_base.txt")
 ])
