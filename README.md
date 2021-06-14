@@ -41,7 +41,7 @@ The unit testing file is foundable in the same folder. Every potential error can
 <b> MAC and LINUX :</b>  
 
 Open your cmd and change your current directory to :  
-<b>--> '<path_to_the_file>\Caseware_project-main\Caseware_project-main\main'</b>  
+<b>--> '<path_to_the_file>/Caseware_project-main/Caseware_project-main/main'</b>  
 _Please note that you must replace <path_to_the_file> with your own path to access your own Downloads folder_
 
 Then run the .py file :  
