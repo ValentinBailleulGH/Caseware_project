@@ -23,8 +23,8 @@ An error locator can be added.
 
 Download the ZIPed project.  
 Then go in your downloads folder and unZIP it.  
-
-
+  
+  
 <b>WINDOWS :</b>  
 
 After opening your Windows CMD, type this to go in the appropriate folder :  
@@ -36,9 +36,8 @@ Then run the .py file :
 
 The unit testing file is foundable in the same folder. Every potential error can be tested by running :  
 <b>--> python test_Bailleul_Caseware_project.py</b>
-
-
-
+  
+  
 <b> MAC and LINUX :</b>  
 
 Open your cmd and change your current directory to :  
