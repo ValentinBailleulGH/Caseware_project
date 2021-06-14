@@ -24,7 +24,9 @@ An error locator can be added.
 Download the ZIPed project.  
 Then go in your downloads folder and unZIP it.  
 
+
 <b>WINDOWS :</b>  
+
 After opening your Windows CMD, type this to go in the appropriate folder :  
 <b>--> 'cd C:\Users\ ...\Downloads\Caseware_project-main\Caseware_project-main\main'</b>  
 _Please note that you must replace '...' with your own path to access your own Downloads folder_
@@ -32,21 +34,21 @@ _Please note that you must replace '...' with your own path to access your own D
 Then run the .py file :  
 <b>--> python Bailleul_Caseware_project.py resources\fichier_de_base.txt resources\liste_des_codes_complete.txt</b>
 
-The unit testing file is foundable in the same folder.  
-Every potential error can be tested by running :  
+The unit testing file is foundable in the same folder. Every potential error can be tested by running :  
 <b>--> python test_Bailleul_Caseware_project.py</b>
 
-<b> MAC and LINUX :</b>  
-Open your cmd and change your current directory to :  
-<b>--> 'C:\Users\ ...\Downloads\Caseware_project-main\Caseware_project-main\main'</b>
 
+
+<b> MAC and LINUX :</b>  
+
+Open your cmd and change your current directory to :  
+<b>--> 'C:\Users\ ...\Downloads\Caseware_project-main\Caseware_project-main\main'</b>  
 _Please note that you must replace '...' with your own path to access your own Downloads folder_
 
 Then run the .py file :  
 <b>--> python3 Bailleul_Caseware_project.py ./resources/fichier_de_base.txt ./resources/liste_des_codes_complete.txt</b>
 
-The unit testing file is foundable in the same folder.  
-Every potential error can be tested by running :  
+The unit testing file is foundable in the same folder. Every potential error can be tested by running :  
 <b>--> python3 ./test_Bailleul_Caseware_project.py</b>
 
 ### A simple example:
