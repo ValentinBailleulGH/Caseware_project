@@ -29,7 +29,7 @@ Then run the .py file :
 
 
 The unit testing file is foundable in the same folder.
-Every potential error can be tested by running :
+Every potential error can be tested by running :  
 --> python test_Bailleul_Caseware_project.py
 
 ### A simple example:
