@@ -12,7 +12,7 @@ Python3
 
 - ## Description
 
-This file is a project containing a Python code, which purpose is to copy from one document to another a series of data according to their relationship with each other, while respecting several constraints.
+This file is a project containing a Python code, which purpose is to copy from one document to another series of data according to their relationship with each other, while respecting several constraints.
 
 - ## Project status
 
