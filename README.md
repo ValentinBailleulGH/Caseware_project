@@ -41,8 +41,8 @@ The unit testing file is foundable in the same folder. Every potential error can
 <b> MAC and LINUX :</b>  
 
 Open your cmd and change your current directory to :  
-<b>--> 'C:\Users\ ...\Downloads\Caseware_project-main\Caseware_project-main\main'</b>  
-_Please note that you must replace '...' with your own path to access your own Downloads folder_
+<b>--> '<path_to_the_file>\Caseware_project-main\Caseware_project-main\main'</b>  
+_Please note that you must replace <path_to_the_file> with your own path to access your own Downloads folder_
 
 Then run the .py file :  
 <b>--> python3 Bailleul_Caseware_project.py ./resources/fichier_de_base.txt ./resources/liste_des_codes_complete.txt</b>
