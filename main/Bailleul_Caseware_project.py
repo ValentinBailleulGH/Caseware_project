@@ -18,7 +18,6 @@ ERROR_DICT = dict([
         " elements have been added to fichier_de_base.txt")
 ])
 
-# printing_file uses ERROR_DICT
 
 
 def code_extractor(FICHIER_DE_BASE, LISTE_DES_CODES_COMPLETE):
